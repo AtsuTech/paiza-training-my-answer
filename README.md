@@ -1,0 +1,1 @@
+[](https://paiza.jp/works/knowledge/article-java-stdin-kn)
